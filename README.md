@@ -1,6 +1,6 @@
 # All Restaurants in New Mexico, US
 
-> Free BeamStation sample export with 373 rows and masked direct-contact fields.
+> Free BeamStation sample export with 499 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `712498` |
 | Location | New Mexico |
 | Category | Restaurants |
-| Full dataset size | 3,732 records |
-| Free sample size | 373 records (9.99%) |
-| Last export | 2026-04-21T19:46:44.413219+00:00 |
+| Full dataset size | 4,998 records |
+| Free sample size | 499 records (9.98%) |
+| Last export | 2026-04-28T21:31:48.009964+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-mexico-us-sample-712498/releases/download/sample-latest/beamstation_712498_restaurants-us-nm_SAMPLE_DIST.csv) |
 
 ## What is in this sample
