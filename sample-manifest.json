@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e5bfd2b5-da85-4dfc-9bcc-7b555d900dee",
+  "export_job_id": "42622480-88c7-43f5-a9b8-b6f5f295cc83",
   "id_short": 712498,
-  "published_at": "2026-04-22T07:54:20Z",
+  "published_at": "2026-04-29T07:57:47Z",
   "repo_name": "all-restaurants-in-new-mexico-us-sample-712498",
   "sample_asset_name": "beamstation_712498_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/712498/beamstation_712498_restaurants-us-nm_SAMPLE_DIST.csv",
-  "sample_records": 373,
-  "sample_sha256": "1585d438859fae35536de098e083db044886e0580e639c140d82d7205548ae20",
-  "sample_size_bytes": 1056080,
-  "total_records": 3732
+  "sample_records": 499,
+  "sample_sha256": "5ccf9477b67d4d241d06a32d27ec74752afa7f4cf9595865fc413fbd5551fa29",
+  "sample_size_bytes": 1574843,
+  "total_records": 4998
 }
